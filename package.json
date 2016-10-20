@@ -1,0 +1,36 @@
+{
+  "name": "lissajous_curve",
+  "version": "1.0.0",
+  "description": "GUI labs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pospieszynski/Lissajous-Curve.git"
+  },
+  "keywords": [
+    "curve",
+    "javascript",
+    "gui",
+    "design"
+  ],
+  "author": "Wojciech Pośpieszyński",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/pospieszynski/Lissajous-Curve/issues"
+  },
+  "homepage": "https://github.com/pospieszynski/Lissajous-Curve#readme",
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
